@@ -1,0 +1,15 @@
+body {
+  font-family: Montserrat, sans-serif;
+}
+.navbar-brand {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9okbFviYSHfrcfqKAshvC1VlZf1acuqKsNLbXVao7OCoYSsig7e5K6olJGihq7qSzyE&usqp=CAU");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 135px;
+  height: 48px;
+}
+
+.navbar-nav .nav-item:hover {
+  background-color: rgba(180, 190, 203, 0.4);
+}
