@@ -552,6 +552,7 @@ figure.snip button:hover{
 .bill-content{
   width:95%;
   margin: auto;
+  margin-top: 40px;
 }
 
 .wrapper h1{
